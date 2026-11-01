@@ -4,12 +4,25 @@ A practical, **month-by-month cybersecurity roadmap** for a Business Data Analyt
 
 **Cadence:** approximately 3–4 hours/week, with flexibility during university exams. **Focus:** security analytics, Python, SQL, logs, detection, dashboards and portfolio projects.
 
-## Navigation
+## Start here — choose a year
 
-- [Full monthly roadmap](ROADMAP.md)
-- [Project portfolio](PROJECTS.md)
+| Year | What she will learn | Open weekly pages |
+|---|---|---|
+| 2026 | Cybersecurity and networking foundations | [Open 2026](years/2026/README.md) |
+| 2027 | Linux, Python, web security, dashboards and SOC introduction | [Open 2027](years/2027/README.md) |
+| 2028 | Blue team, SIEM, investigations and specialization choice | [Open 2028](years/2028/README.md) |
+| 2029 | Specialized analytics, certification decision and capstone planning | [Open 2029](years/2029/README.md) |
+| 2030 | Final capstone, portfolio and career preparation | [Open 2030](years/2030/README.md) |
+
+## Guides and tracking
+
+- **[Specialization guide — compare five career paths](SPECIALIZATION.md)**
+- [Full 44-month roadmap](ROADMAP.md)
+- [Five-project portfolio](PROJECTS.md)
 - [Mentor and learner workflow](CONTRIBUTING.md)
-- [GitHub Issues: monthly checklists](../../issues)
+- [Monthly GitHub Issues — progress and feedback](../../issues)
+
+**How to navigate:** click a year → click a month → complete Week 1, Week 2, Week 3 and Week 4. Each monthly page has checkboxes and links back. Weekly tasks live on the monthly page to avoid creating hundreds of separate files.
 
 ## Annual progression
 
